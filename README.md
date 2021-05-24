@@ -109,7 +109,7 @@ Az előadáson az első 20 diáról volt szó.
 > -    generatív nyelvtanok osztályozása
 > -    Chomsky hierarchia
 > -    kiterjesztett nyelvtanok
-> -    epszilon-mentesítés
+> -    [epszilon-mentesítés](https://github.com/gabboraron/algoritmuselmelet/blob/main/szamtud2010_7.pdf)
 > -    láncmentesítés
 > -    hosszredukció
 > -    kiterjesztési tétel
