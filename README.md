@@ -1,5 +1,7 @@
 # Algoritmuselmélet
 
+https://cyberzhg.github.io/toolbox/
+
 **Szakirodalom:**
 - [Ullman, Jeffrey D.: Introduction to Automata Theory, Languages, and Computation](http://148.216.38.247/~rrusiles/Fie/Horizontal/Hopcroft_Introduction_to_Automata_Theory_Languages_and_Computation.pdf)
 - [tutorialspoint Automata Theory Tutorial](https://www.tutorialspoint.com/automata_theory/)
